@@ -4,7 +4,6 @@ function carregar() {
     var ico = window.document.getElementById('ico')
     var data = new Date()
     var hora = data.getHours()
-    hora = 20
     msg.innerHTML = `Agora são ${hora} horas`
     if (hora >= 0 && hora < 12) {
         img.src = 'morning.png'
