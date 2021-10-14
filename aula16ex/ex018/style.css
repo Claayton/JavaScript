@@ -17,6 +17,10 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.39);
 }
 
+#txts {
+    width: 150px;
+}
+
 footer{
     color: #eee;
     text-align: center;
